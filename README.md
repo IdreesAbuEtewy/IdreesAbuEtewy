@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=72FFFF&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Web+and+Mobile+Developer.;Cyber-Physical+Systems+Master's+Student.;Always+learning+and+building+cool+stuff." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=72FFFF&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;Software+Engineer.;Cyber-Physical+Systems+Master's+Student.;Always+learning+and+building+cool+stuff." alt="Typing SVG">
 </p>
 
 ---
@@ -19,22 +19,14 @@
 - BSc in **Network and Mobile Programming** – Al-Aqsa University, Palestine  
 - MSc in **Cyber-Physical Systems** – Al-Aqsa University, Palestine  
 
-### 💼 What I Do
-- Full-stack web development using:
-  - Frontend: **JavaScript**, **TypeScript**, **Vue 3**, **React**
-  - Mobile Application:  **React Native**, **Flutter**
-  - Backend: **Node.js**, **NestJS**, **Laravel**, **Express**
-  - Databases: **MongoDB**, **MySQL**, **SQLite**
-
-- Building fast, secure, and modern web/mobile applications
 
 ---
 
 ## 🛠️ Tools & Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,next,nuxt,flutter,nodejs,nest,laravel,mongodb,mysql,sqlite,express,dart,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,vue,react,next,nuxt,rust,cs,dotnet,nodejs,nest,laravel,express,postgres,mongodb,mysql,sqlite,cpp,java" />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,webstorm,firebase,graphql,postman,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,idea,firebase,graphql,postman" />
 </div>
 
 ---
@@ -42,7 +34,7 @@
 ## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IdreesAbuEtewy&theme=algolia&show_icons=true&locale=en&layout=compact&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20" height="170"/>
-    <image width=12>
+  <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api?username=IdreesAbuEtewy&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" alt="IdreesAbuEtewy" height="170"/>
 </p>
 
